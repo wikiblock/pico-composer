@@ -1,5 +1,5 @@
 {
-    "name": "picocms/pico-composer",
+    "name": "wikiblock/pico-composer",
     "type": "project",
     "description": "Pico is a flat file CMS, this means there is no administration backend and database to deal with. You simply create .md files in the \"content\" folder and that becomes a page.",
     "keywords": [ "pico", "picocms", "pico-cms", "simple", "flat-file", "cms", "content-management", "website", "markdown-to-html", "php", "markdown", "yaml", "twig", "composer-project" ],
